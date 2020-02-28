@@ -1,0 +1,78 @@
+name: stickers
+description: LEARNING FLUTTER
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^1.4.1
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/dorime.jpg
+    - assets/images/dori.png
+    - assets/images/ameno.jpg
+    - assets/images/cats.gif
+    - assets/images/frog.gif
+    - assets/images/image-edit-outline.png
+
+    - assets/bonoro/bonoro.webp
+    - assets/bonoro/bonoro (1).jpg
+    - assets/bonoro/bonoro (2).webp
+    - assets/bonoro/bonoro (3).webp
+    - assets/bonoro/bonoro (4).webp
+    - assets/bonoro/bonoro (5).webp
+    - assets/bonoro/bonoro (6).webp
+    - assets/bonoro/bonoro (7).webp
+
+    - assets/dorime/dori.png
+    - assets/dorime/ameno.png
+    - assets/dorime/dorime.jpg
+    - assets/dorime/ameno.jpg
+
+    - assets/laranjo/laranjo (1).webp
+    - assets/laranjo/laranjo (2).webp
+    - assets/laranjo/laranjo (3).webp
+    - assets/laranjo/laranjo (4).webp
+    - assets/laranjo/laranjo (5).webp
+    - assets/laranjo/laranjo (6).webp
+    - assets/laranjo/laranjo (7).webp
+    - assets/laranjo/laranjo (8).webp
+
+    - assets/pingo/pingo (1).webp
+    - assets/pingo/pingo (2).webp
+    - assets/pingo/pingo (3).webp
+    - assets/pingo/pingo (4).webp
+    - assets/pingo/pingo (5).webp
+    - assets/pingo/pingo (6).webp
+    - assets/pingo/pingo (7).webp
+    - assets/pingo/pingo (8).webp
+    - assets/pingo/pingo (9).webp
