@@ -37,42 +37,8 @@ flutter:
 
   uses-material-design: true
   assets:
-    - assets/images/dorime.jpg
-    - assets/images/dori.png
-    - assets/images/ameno.jpg
-    - assets/images/cats.gif
-    - assets/images/frog.gif
-    - assets/images/image-edit-outline.png
-
-    - assets/bonoro/bonoro.webp
-    - assets/bonoro/bonoro (1).jpg
-    - assets/bonoro/bonoro (2).webp
-    - assets/bonoro/bonoro (3).webp
-    - assets/bonoro/bonoro (4).webp
-    - assets/bonoro/bonoro (5).webp
-    - assets/bonoro/bonoro (6).webp
-    - assets/bonoro/bonoro (7).webp
-
-    - assets/dorime/dori.png
-    - assets/dorime/ameno.png
-    - assets/dorime/dorime.jpg
-    - assets/dorime/ameno.jpg
-
-    - assets/laranjo/laranjo (1).webp
-    - assets/laranjo/laranjo (2).webp
-    - assets/laranjo/laranjo (3).webp
-    - assets/laranjo/laranjo (4).webp
-    - assets/laranjo/laranjo (5).webp
-    - assets/laranjo/laranjo (6).webp
-    - assets/laranjo/laranjo (7).webp
-    - assets/laranjo/laranjo (8).webp
-
-    - assets/pingo/pingo (1).webp
-    - assets/pingo/pingo (2).webp
-    - assets/pingo/pingo (3).webp
-    - assets/pingo/pingo (4).webp
-    - assets/pingo/pingo (5).webp
-    - assets/pingo/pingo (6).webp
-    - assets/pingo/pingo (7).webp
-    - assets/pingo/pingo (8).webp
-    - assets/pingo/pingo (9).webp
+    - assets/images/
+    - assets/bonoro/
+    - assets/dorime/
+    - assets/laranjo/
+    - assets/pingo/
